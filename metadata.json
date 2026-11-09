@@ -1,0 +1,6 @@
+{
+  "name": "GENESIS — Interaktiv Bio-Koinot va Ilmiy Laboratoriya",
+  "description": "GENESIS — 3D hujayra, DNK, molekulalar, zarrachalar va sun'iy hayot sintezatori. Kamera orqali qo‘l harakatlari bilan boshqariladigan ilg‘or ilmiy platforma.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
